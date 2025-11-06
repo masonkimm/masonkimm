@@ -44,9 +44,8 @@ I'm a **Full-Stack Developer** passionate about creating **minimalistic, efficie
 
 ### 📊 GitHub Analytics
 
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonkim&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonkim&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=masonkim&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masonkimm&layout=compact&theme=radical)
+
 
 ---
 
@@ -55,15 +54,16 @@ I'm a **Full-Stack Developer** passionate about creating **minimalistic, efficie
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**PREP**](#) | A DoD-hosted web portal for emergency preparedness data reporting and analytics. | React, Flask, PostgreSQL, CI/CD |
-| [**TEEP**](#) | Interactive Gantt chart app for training and exercise planning. | React, D3.js, Flask |
-| [**COP**](#) | Geospatial dashboard for facility readiness tracking. | React, Leaflet, Flask |
+| [**TEEP**](#) | Interactive Gantt chart app for training and exercise planning. | React, Svelte Gantt, Vite |
+| [**COP**](#) | Geospatial dashboard for facility readiness tracking. | React, Map, Vite |
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Mason%20Kim-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/masonkim)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://masonkim.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mason.kim.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Mason%20Kim-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonkimm/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://masonkimm.github.io/portfolio-2025/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sjmasonkim@gmail.com)
+
 
 ---
 
